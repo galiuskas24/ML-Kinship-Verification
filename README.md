@@ -1,7 +1,7 @@
 # Kinship Verification
 
 ## Info
-This application is based on a machine-learned computer that tries to be better at guessing the kinship of two people.      
+This application is based on a machine-learned computer that tries to be better than a human at guessing the kinship of two people.        
 Contributors:  
 - Vlado Galić
 - Marino Voćanec
