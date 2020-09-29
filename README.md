@@ -1,7 +1,12 @@
 # Kinship Verification
 
 ## Info
-This application
+This application is based on a machine-learned computer that tries to be better at guessing the kinship of two people.      
+Contributors:  
+- Vlado Galić
+- Marino Voćanec
+- Nikola Tomažin
+
 
 ## Images
 <p align="center">
